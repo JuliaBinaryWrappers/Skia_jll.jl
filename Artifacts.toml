@@ -1,0 +1,228 @@
+[[Skia]]
+arch = "aarch64"
+git-tree-sha1 = "e582bc7b480b440ed0837e371e3df2bfe55bad64"
+os = "macos"
+
+    [[Skia.download]]
+    sha256 = "63d3c431f3176790690f347fbb9916da740fe210c99eecd389b08de44bcebf9e"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.aarch64-apple-darwin.tar.gz"
+[[Skia]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cfc25cb0ea8034db0dca1809df4b882cd01f7e82"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "717c14200603b9ebffbc2e62416069e96b82d5fe5b77b86d73ecc8f756f5cfb8"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Skia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86829a5b975ee75edb019a9c8371a6df085b344c"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "5802c9f40f649789aa5d7b3002a2414312f14bb8dc7e32e2644092faa7f92705"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Skia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05efbe8bbb344a39d1004a64cf37be8ba8b51182"
+libc = "musl"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "174813e44995865f1394ba8d69acefbab55738280e6e08275aa09778a0554f88"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Skia]]
+arch = "aarch64"
+git-tree-sha1 = "2ee03fd47c6a0232959cbe6b0357b107f6a84932"
+os = "freebsd"
+
+    [[Skia.download]]
+    sha256 = "71cbd1948b552d4345431071f62639c570b2b8447da22acb886aa27de1a11825"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.aarch64-unknown-freebsd.tar.gz"
+[[Skia]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "893d5341022b144374bd8f0fceb1476ab0afb79b"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "bb0b253e281b605695b509e9bb94ced2fe1f9bd618a4cde6f024b32ce55cb4b7"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Skia]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45b271278384db9f68565b24b8098ae73efbf681"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "c2e6174174814b5700fc3a79e9f8d784568059b132173feef3315e78a1ebf1f9"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Skia]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be4afb3d212ddf07d8a3c3a2730caba2c5952684"
+libc = "musl"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "74ed12f236d15e32774a06e9538273705dcbc08993ecb7743b27ae3d126b9017"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Skia]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5837a65efbd826c47cb8d983e34fbe8d0f3b5a01"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "f62c55c2687f29320ab01d635627c6ce1089a97e49118ebc9bc90ca108d119f7"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Skia]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abbcb22bf1f239a0514717527a500b553c5bea4a"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "86fd38ca44586b684102c09fb6b0b576d740a66a47672ad7eb2a58de021c07c7"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Skia]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df345834709ea6b26d06fafe718737e7576c83ce"
+libc = "musl"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "9cce69a4964d2b086ce4aeedc45bee77c35aba3318631bd42bacf40481f742e5"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Skia]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "affc72c4057f0754eccac7cc90a6aafc05030332"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "2ff65e17d0e1bd9dddc4002f628076b38ff162ed553ba0f90a17fea209fb636c"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.i686-linux-gnu-cxx03.tar.gz"
+[[Skia]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2bcac38e737b7c8387fd2a08a9c03e00773f82fc"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "8af173e597536a2db9be2ded5f14784e14253e128049f9b6405f6ee3033bdf02"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.i686-linux-gnu-cxx11.tar.gz"
+[[Skia]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e5e91ec1d3c37742e6582e5780d3c88309795ed"
+libc = "musl"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "4e46320f6a255f2ef50d841bc09812ab8b0d1f713d6552168805b5db55a67ad8"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.i686-linux-musl-cxx11.tar.gz"
+[[Skia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d7c9e1080b21f7c6ff8c2b6ba0972e73209d6b09"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "54a7e7994e6918b257c07eb0f89cb919edc939c89ee8b1b01ea4ecf96a41869c"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Skia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0aacf6112f36fbe433917a6d06b80897e86b6045"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "b52d9af7f832aaf9eaa7a7d4c554a4166e428d7b5df0ccd7301e58c5f842f0bc"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Skia]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8823ba7f569ca060ccd9c75ecd8151858ff7c2d7"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "5543479a85d6e6eb6779051bc3886bd9bbb7ea314d12c1330d24c16fb24fddc6"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[Skia]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fed3c5d5af79bf9ca44a78c52da834b3eb52d78"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "5e8c842ef2aa621f42757e1c504947f650fda458785fdd1bec70d35faf753c76"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[Skia]]
+arch = "x86_64"
+git-tree-sha1 = "76cbbf3bcd2495daf8056e76025fe8d67ca98c0d"
+os = "macos"
+
+    [[Skia.download]]
+    sha256 = "7114edf8c634394e6cae036671b5ee63782f82bccf971e3af74bd47b654c34a3"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.x86_64-apple-darwin.tar.gz"
+[[Skia]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ad137f1e9f093facc71bf05567a059b30f4edde4"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "0cdf776d57fe2517909ae62497bfe1c13052d23a47df755dc239f80abb6043cb"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Skia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99be80702ffa47e3bf2937b23b7242671fca3d7b"
+libc = "glibc"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "cc4b1614db141edd2ed0f06d22c2e949edc523278860bc0b32c8c29e76a570e7"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Skia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7141ba003113b94b5c06f898e3116fcd33edd031"
+libc = "musl"
+os = "linux"
+
+    [[Skia.download]]
+    sha256 = "71b7fdfc03378dfe94c8c78e0d11d36560891d605188bb26cbe5341fb121ce48"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Skia]]
+arch = "x86_64"
+git-tree-sha1 = "cfeb6a5d781a785a5e2ce5ec3e400836b30bdf1f"
+os = "freebsd"
+
+    [[Skia.download]]
+    sha256 = "b7cb2245576d34f6b96a724b73701e019c82b4977d330d57f29d748246ea886b"
+    url = "https://github.com/JuliaBinaryWrappers/Skia_jll.jl/releases/download/Skia-v0.40.0+0/Skia.v0.40.0.x86_64-unknown-freebsd.tar.gz"
